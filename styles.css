@@ -1,0 +1,39 @@
+#u_0_1h{
+  display:none;
+}
+.fbChatSidebar.fixed_always._5pr2 {
+  display: none;
+}
+
+#contentCol {
+  width:100%
+}
+
+._5jmm._5pat._3lb4._59m._x72 {
+  width: 100%;
+}
+
+/*#stream_pagelet{*/
+    /*width: 2000px;*/
+/*}*/
+/*#mainContainer{*/
+    /*display: none;*/
+/*}*/
+/*.hasLeftCol{*/
+    /*margin-left: -1150px;*/
+/*}*/
+#masthead,
+#primary {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+  background-color: #fff;
+  padding: 20px !important;
+}
+#masthead {
+  background: none;
+}
+#masthead img, #primary img {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
+
